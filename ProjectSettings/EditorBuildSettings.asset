@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lunar_Surface.unity
+    guid: 69454a07763b3f615abea5080684cf2a
   m_configObjects: {}
