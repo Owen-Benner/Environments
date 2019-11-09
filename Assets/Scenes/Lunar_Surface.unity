@@ -232,7 +232,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 130
   m_CookieSize: 10
@@ -251,7 +251,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -335,13 +335,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 612359481}
-  m_LocalRotation: {x: -0.3699625, y: 0.90751815, z: -0.045468166, w: -0.19357497}
+  m_LocalRotation: {x: -0.3704807, y: 0.90835047, z: -0.04357035, w: -0.18906388}
   m_LocalPosition: {x: -0.21213102, y: 1.6263452, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1836995480}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: -3.7280002, y: 112.65001, z: -0.105000004}
+  m_LocalEulerAnglesHint: {x: 12.665001, y: 198.599, z: -42.295002}
 --- !u!1001 &736729784
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -544,13 +544,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963557117}
-  m_LocalRotation: {x: -0.38440937, y: 0.8985567, z: 0.18380822, w: 0.10507104}
+  m_LocalRotation: {x: -0.3905549, y: 0.89443076, z: 0.1879843, w: 0.11010215}
   m_LocalPosition: {x: -2.3334515, y: -1.909189, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1836995480}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: -14.898001, y: 70.393005, z: 1.2650001}
+  m_LocalEulerAnglesHint: {x: -24.979002, y: 176.83, z: -46.475002}
 --- !u!1 &1195929955
 GameObject:
   m_ObjectHideFlags: 0
@@ -578,7 +578,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.4438857, g: 0.8490772, b: 0.8962264, a: 1}
+  m_Color: {r: 0.22018479, g: 0.7647059, b: 0.15686274, a: 1}
   m_Intensity: 8
   m_Range: 20
   m_SpotAngle: 30
@@ -812,7 +812,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 4
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 130
   m_CookieSize: 10
@@ -831,7 +831,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
