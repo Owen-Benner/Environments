@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lunar_Surface.unity
     guid: 69454a07763b3f615abea5080684cf2a
+  - enabled: 0
+    path: Assets/Scenes/Art_Gallery.unity
+    guid: 0d496843826f86b71905964628243efb
   m_configObjects: {}
